@@ -1,0 +1,50 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Portfolio', url: ''}
+# - {name: 'About',    url: 'about'}
+# - {name: 'Contact',  url: 'contact'}
+
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Konsert på KMH',   url: 'astri-aareskjold-kungliga-musikhogskolan'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github',    link: 'https://github.com/rlindsberg'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Karlemstrand Photography | Portraits, Fine Dining, Landscapes'
+  rel-author: 'https://www.kth.se/profile/ruliu'
+  rel-publisher: 'https://www.kth.se/profile/ruliu'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: 'UA-159402018-1'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
